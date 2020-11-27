@@ -3,3 +3,4 @@
 * [Lambda Expression](https://github.com/shamy1st/java-lambda-expression)
 * [Method Reference](https://github.com/shamy1st/java-method-reference)
 * [Streams API](https://github.com/shamy1st/java-streams-api)
+* [Optional](https://github.com/shamy1st/java-optional)
