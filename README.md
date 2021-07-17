@@ -4,7 +4,7 @@
     * [Functional Interface](https://github.com/shamy1st/java-functional-interface)
     * [Lambda Expression](https://github.com/shamy1st/java-lambda-expression)
     * [Method Reference](https://github.com/shamy1st/java-method-reference)
-    * [Streams API](https://github.com/shamy1st/java-streams-api)
+* [Streams API](https://github.com/shamy1st/java-streams-api)
 * [Optional](https://github.com/shamy1st/java-optional)
 * JSR 223, JEP 174: Project Nashorn
 * JSR 308, JEP 104: Annotation on Java types
